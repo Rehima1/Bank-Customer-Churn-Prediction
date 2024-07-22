@@ -39,11 +39,11 @@ The dataset contains customer information and their churn status. Features inclu
 
 ### Confusion Matrices
 
-- **XGBoost Confusion Matrix**: Check ![image](https://github.com/user-attachments/assets/892d1a9a-4640-4440-9663-609b262c0185)
- and ![image](https://github.com/user-attachments/assets/da166b95-b7bf-4061-a847-f100e7940dbe)
+- **XGBoost Confusion Matrix**: ![image](https://github.com/user-attachments/assets/892d1a9a-4640-4440-9663-609b262c0185)
+![image](https://github.com/user-attachments/assets/da166b95-b7bf-4061-a847-f100e7940dbe)
 
-- **Random Forest Confusion Matrix**: Check ![image](https://github.com/user-attachments/assets/0252d5c3-5274-4f5e-8100-6fee56432f0d)
- and ![image](https://github.com/user-attachments/assets/a8af1f66-a21c-4260-b63f-57d0f9c1ec63)
+- **Random Forest Confusion Matrix**: ![image](https://github.com/user-attachments/assets/0252d5c3-5274-4f5e-8100-6fee56432f0d)
+![image](https://github.com/user-attachments/assets/a8af1f66-a21c-4260-b63f-57d0f9c1ec63)
 
 
 ### Feature Importance
