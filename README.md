@@ -3,19 +3,20 @@
 
 This project involves predicting customer churn in the banking industry using Random Forest Classifier, and XGBoost. Customer churn refers to the loss of clients or customers, which is crucial for banks to predict and mitigate in order to retain valuable clients. The project build a predictive models based on customer data.
 
-Entire code can be found [here]()
+Entire code can be found [here](https://github.com/Rehima1/Bank-Customer-Churn-Prediction/blob/main/Bank_Customer_Churn_Prediction.ipynb)
 
 ## Features
 
-###- Data Preprocessing: Cleaning and preparing the dataset for analysis.
+### Data Preprocessing: Cleaning and preparing the dataset for analysis.
   <img width="623" alt="image" src="https://github.com/user-attachments/assets/add890f9-a37e-4fd1-a9ac-4520a490cfdc">
-###- Exploratory Data Analysis (EDA): Understanding data distribution and correlations.
+  
+### Exploratory Data Analysis (EDA): Understanding data distribution and correlations.
   ![image](https://github.com/user-attachments/assets/7fabb226-da16-4422-a4d1-94110a546702)
   ![image](https://github.com/user-attachments/assets/86e04285-2630-4e74-9a52-7f6aa327d55d)
 
-###- Model Building: Training and evaluating multiple models such as Random Forest, and XGBoost.
-###- Evaluation Metrics: Assessing model performance using accuracy, confusion matrix, and other metrics.
-###- Visualization: Generating visualizations for model evaluation .
+### Model Building: Training and evaluating multiple models such as Random Forest, and XGBoost.
+### Evaluation Metrics: Assessing model performance using accuracy, confusion matrix, and other metrics.
+### Visualization: Generating visualizations for model evaluation .
 
 ## Data
 
@@ -58,6 +59,6 @@ Check out this video for an overview of the Bank Customer Churn Prediction proje
 
 ![Watch the video](media/overview.mp4)
 
-##Conclusion
+## Conclusion
 The Bank Customer Churn Prediction project successfully developed two machine learning models, XGBoost and Random Forest, to predict customer churn. The XGBoost model achieved high training accuracy (96.97%) but showed signs of overfitting with lower validation accuracy (84.65%). In contrast, the Random Forest model demonstrated consistent performance across training (88.23%), validation (86.15%), and test sets (86.10%), indicating better generalization. Both models identified key features influencing churn, aiding in targeted customer retention strategies. While XGBoost captures complex patterns, Random Forest offers robust, interpretable results, making it a reliable choice for churn prediction.
 
