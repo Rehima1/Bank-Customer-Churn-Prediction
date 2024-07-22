@@ -61,7 +61,7 @@ The dataset contains customer information and their churn status. Features inclu
 
 Check out this video for an overview of the Bank Customer Churn Prediction project:
 
-![Watch the video](media/overview.mp4)
+[Watch the video](media/overview.mp4)
 
 ## Conclusion
 The Bank Customer Churn Prediction project successfully developed two machine learning models, XGBoost and Random Forest, to predict customer churn. The XGBoost model achieved high training accuracy (96.97%) but showed signs of overfitting with lower validation accuracy (84.65%). In contrast, the Random Forest model demonstrated consistent performance across training (88.23%), validation (86.15%), and test sets (86.10%), indicating better generalization. Both models identified key features influencing churn, aiding in targeted customer retention strategies. While XGBoost captures complex patterns, Random Forest offers robust, interpretable results, making it a reliable choice for churn prediction.
